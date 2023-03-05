@@ -22,3 +22,5 @@ CSS edits by fusi0nreflex
 
 
 ```
+
+https://cdn.discordapp.com/attachments/1076959581156163736/1082011548333113435/qbinventory.PNG
