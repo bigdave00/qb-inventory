@@ -16,15 +16,11 @@
 - Add the following code to your server.cfg/resouces.cfg
 ```
 
-Requirements:
 
-ensure qb-core
-ensure qb-logs
-ensure qb-inventory
-ensure qb-traphouse
-ensure qb-radio
-ensure qb-drugs
-ensure qb-shops
+CSS edits by fusi0nreflex
+
+
+
 ```
 
 # License
